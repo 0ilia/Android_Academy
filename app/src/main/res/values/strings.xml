@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android_Academy</string>
+    <string name="leftИracket">&lt;</string>
 </resources>
