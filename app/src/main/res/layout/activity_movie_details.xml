@@ -19,11 +19,13 @@
 
             <ImageView
                     android:scaleType="centerCrop"
-                    android:layout_width="match_parent"
+                    android:layout_width="@dimen/_415dp"
                     android:layout_height="wrap_content"
                     app:srcCompat="@drawable/orig"
                     android:id="@+id/imageView"
-                    app:layout_constraintTop_toTopOf="parent" />
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent" />
 
             <ImageView
                     app:layout_constraintStart_toStartOf="parent"
@@ -58,7 +60,6 @@
                     android:textSize="@dimen/_16dp"
                     android:textColor="@color/_6D6D80"
                     app:layout_constraintTop_toTopOf="parent"
-
                     app:layout_constraintStart_toEndOf="@+id/imageView4" />
 
             <TextView
