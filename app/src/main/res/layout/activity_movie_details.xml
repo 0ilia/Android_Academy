@@ -54,7 +54,7 @@
             <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="240dp"
+                    android:layout_marginTop="260dp"
                     android:layout_marginLeft="16dp"
                     android:background="#191926"
                     android:gravity="center"
@@ -170,7 +170,7 @@
             <TextView
                     android:layout_marginTop="10dp"
 
-                    android:textColor="#6D6D80"
+                    android:textColor="#FFFFFF"
                     android:text="After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
